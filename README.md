@@ -1,3 +1,23 @@
+# Setting up ESlint and Prettier
+
+npm install eslint-plugin-testing-library eslint-plugin-jest-dom
+Steps To Follow
+
+1. Remove eslintConfig from package.json
+2. Create .eslintrc.json and add standard config
+3. Add .eslintcache and .vscode to .gitignore
+4. Create .vscode/settings.json and add standard config
+5. Test if it worked
+
+# React-Bootstrap
+
+npm install react-bootstrap bootstrap
+
+Steps To Do
+
+1. Add JS links for React Bootstrap to index.html
+2. Add CSS import to index.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
