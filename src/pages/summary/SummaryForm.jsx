@@ -27,10 +27,10 @@ export default function SummaryForm() {
   );
   const checkboxLabel = (
     <span>
+      I agree to
       <OverlayTrigger placement="right" overlay={popover}>
-        <Button variant="success">Click me to see</Button>
+        <span style={{ color: "blue" }}>Terms and Conditions</span>
       </OverlayTrigger>
-      I agree to <span style={{ color: "blue" }}> Terms and Conditions</span>
     </span>
   );
 

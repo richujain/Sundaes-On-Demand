@@ -18,6 +18,16 @@ Steps To Do
 1. Add JS links for React Bootstrap to index.html
 2. Add CSS import to index.js
 
+# MSW Mock Service Worker Setup
+
+Steps To Do (https://mswjs.io/)
+
+1.  npm install msw
+2.  Create handlers
+3.  Create test server to handle request
+4.  Make sure test listens during all tests
+    1. reset after each test
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
